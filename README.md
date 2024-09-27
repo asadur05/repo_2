@@ -1,2 +1,2 @@
 # repo_2
-This is my second repository
+this is the readme file of branch_1
